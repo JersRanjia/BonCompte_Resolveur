@@ -1,0 +1,13 @@
+.jfx-button {
+
+    -fx-text-fill: white;
+    -fx-background-color:  #0076dd;
+    -fx-ripler-fill : #004279 ;
+    -fx-cursor: HAND;
+}
+
+.label {
+
+    -fx-font-weight: BOLD;
+
+}

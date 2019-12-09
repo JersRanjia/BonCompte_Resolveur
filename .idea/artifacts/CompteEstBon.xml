@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="CompteEstBon">
+    <output-path>$PROJECT_DIR$/out/artifacts/CompteEstBon</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="icons">
+          <JavaFxApplicationIcons>
+            <option name="linuxIcon" value="$PROJECT_DIR$/res/img/Idea_32.png" />
+            <option name="macIcon" value="$PROJECT_DIR$/res/img/Idea_32.png" />
+            <option name="windowsIcon" value="$PROJECT_DIR$/res/img/Idea_32.png" />
+          </JavaFxApplicationIcons>
+        </option>
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="BonCompte Resolver" />
+        <option name="vendor" value="JersRanjia" />
+        <option name="version" value="1.0" />
+        <option name="width" value="632" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="CompteEstBon.jar">
+        <element id="module-output" name="CompteEstBon" />
+      </element>
+    </root>
+  </artifact>
+</component>
